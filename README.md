@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy José Robayo
+# 👋 ¡Hola! soy Jose Robayo
 
 🎓 Ingeniero Mecatrónico de la Pontificia Universidad Javeriana
 🤖 Apasionado por la robótica, el diseño y la integración de sistemas inteligentes
@@ -36,7 +36,9 @@ Soy ingeniero mecatrónico con interés en el desarrollo de soluciones tecnológ
 
 * 🔬 Explorando aplicaciones de **ROS2 en robótica móvil**
 * 🛠️ Desarrollando proyectos de diseño y simulación
+* 🤖 Miembro de **RAS Javeriana**, trabajando en el desarrollo de robots
 * 📚 Aprendiendo y fortaleciendo habilidades en control y electrónica
+
 
 ---
 
