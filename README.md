@@ -1,51 +1,68 @@
-# 👋 ¡Hola! soy Jose Robayo
+# 👋 Hi there! I'm Jose Robayo
 
-🎓 Ingeniero Mecatrónico de la Pontificia Universidad Javeriana
-🤖 Apasionado por la robótica, el diseño y la integración de sistemas inteligentes
-
----
-
-## 🚀 Sobre mí
-
-Soy ingeniero mecatrónico con interés en el desarrollo de soluciones tecnológicas que integren **hardware y software**. Me enfoco en el diseño, simulación e implementación de sistemas robóticos y electrónicos, combinando creatividad con fundamentos de ingeniería.
+🎓 Mechatronics Engineer from Pontificia Universidad Javeriana
+🤖 Passionate about robotics, design, and intelligent system integration
 
 ---
 
-## 🛠️ Habilidades
+## 🚀 About Me
 
-* 🔧 **Diseño CAD** (modelado 3D, ensamblajes, simulación)
-* ⚙️ **Diseño mecánico y de sistemas**
-* 🤖 **Robótica**
+I am a mechatronics engineer with a strong interest in developing technological solutions that seamlessly integrate **hardware and software**.
+
+My work focuses on the **design, simulation, and implementation** of robotic and electronic systems, combining creativity with solid engineering principles to build efficient and innovative solutions.
+
+---
+
+## 🛠️ Skills
+
+* 🔧 **CAD Design** (3D modeling, assemblies, simulation)
+* ⚙️ **Mechanical & Systems Design**
+* 🤖 **Robotics**
 * 🧠 **ROS2 (Robot Operating System)**
-* 🔌 Electrónica analógica y digital
-* 💻 Programación (Python, C/C++, Arduino)
+* 🔌 Analog & Digital Electronics
+* 💻 Programming (Python, C/C++, Arduino)
 
 ---
 
-## 📂 Áreas de interés
+## 📂 Areas of Interest
 
-* Robots autónomos
-* Sistemas embebidos
-* Simulación y modelado
-* Control y automatización
-* Integración de sensores y actuadores
-
----
-
-## 📈 Actualmente
-
-* 🔬 Explorando aplicaciones de **ROS2 en robótica móvil**
-* 🛠️ Desarrollando proyectos de diseño y simulación
-* 🤖 Miembro de **RAS Javeriana**, trabajando en el desarrollo de robots
-* 📚 Aprendiendo y fortaleciendo habilidades en control y electrónica
-
+* 🤖 Autonomous robots
+* 🔌 Embedded systems
+* 🧪 Simulation & modeling
+* 🎯 Control systems & automation
+* 🔗 Sensor and actuator integration
 
 ---
 
-## 📫 Contacto
+## 📈 Currently
 
-* 📧 Email: [[josee.robayoh@javeriana.edu.co]]
+* 🔬 Exploring applications of **ROS2 in mobile robotics**
+* 🛠️ Developing projects in design and simulation
+* 🤖 Member of **RAS Javeriana**, working on robot development
+* 📚 Strengthening knowledge in control systems and electronics
 
 ---
 
-⭐ *Siempre abierto a colaborar en proyectos interesantes y desafiantes*
+## 🌱 Mindset
+
+* 🚀 Always learning and improving
+* 🧠 Strong problem-solving mindset
+* 🤝 Open to collaboration and teamwork
+* ⚡ Passionate about turning ideas into real systems
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [josee.robayoh@javeriana.edu.co](mailto:josee.robayoh@javeriana.edu.co)
+
+---
+
+## ⭐ Fun Fact
+
+I love art and design, so I try to focus all my robots on being both beautiful and functional. 🚴‍♂️🤖
+
+---
+
+⭐ *Always open to collaborating on exciting and challenging projects!*
+
